@@ -227,7 +227,7 @@ footer ul {
 }
 
 /* Media Query */
-@media (min-width: 550px) {
+@media (min-width: 800px) {
     article {
         display: grid;
         grid-template-columns: repeat(10, 1fr);
