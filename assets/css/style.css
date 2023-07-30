@@ -59,7 +59,7 @@ img {
 
 /* Intro Styles */
 #intro {
-    padding: 4rem 1rem 10rem 1rem;
+    padding: 10rem 1rem 10rem 1rem;
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -98,6 +98,12 @@ img {
 }
 
 /* Navbar Section */
+#navbar {
+    background-color: var(--black);
+    width: 100%;
+    position: fixed;
+}
+
 nav {
     font-family: var(--mono);
     font-size: 80%;
@@ -280,5 +286,9 @@ footer ul {
         flex-basis: auto;
         text-align: left;
         margin-right: auto;
+    }
+
+    #intro {
+        padding: 8rem 1rem 10rem 1rem;
     }
 }
