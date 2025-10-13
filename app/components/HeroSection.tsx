@@ -24,16 +24,19 @@ export default function HeroSection() {
 					</div>
 					<div className="font-mono">
 						<p className="text-green-600 dark:text-green-500">$ whoami</p>
-						<h1 className="text-4xl md:text-5xl font-bold mt-2 mb-4 text-gray-900 dark:text-white">Alex Chen</h1>
-						<p className="text-gray-600 dark:text-gray-400 mb-2">Senior Backend Engineer</p>
+						<h1 className="text-4xl md:text-5xl font-bold mt-2 mb-4 text-gray-900 dark:text-white">Faiz Ghanchi</h1>
+						<p className="text-gray-600 dark:text-gray-400 mb-2">Backend Engineer</p>
 						<p className="text-green-600 dark:text-green-500">$ skills</p>
 						<div className="flex flex-wrap gap-2 mt-2">
-							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Node.js</span>
 							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Python</span>
-							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Go</span>
+							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">FastAPI</span>
+							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Flask</span>
+							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">PostgreSQL</span>
 							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">AWS</span>
 							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Docker</span>
-							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Kubernetes</span>
+							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Redis</span>
+							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Go</span>
+							<span className="px-3 py-1 bg-green-500/10 text-green-800 dark:text-green-300 rounded-md border border-green-500/20">Node.js</span>
 						</div>
 					</div>
 				</motion.div>

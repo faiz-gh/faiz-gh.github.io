@@ -7,7 +7,7 @@ import { Analytics } from '@vercel/analytics/next';
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const metadata: Metadata = {
-	title: '[Your Name] - Backend Developer',
+	title: 'Faiz Ghanchi - Backend Developer',
 	description:
 		'Welcome to my portfolio! I am a passionate backend developer specializing in building scalable server architectures, robust APIs, and high-performance distributed systems. With expertise in cloud infrastructure and database optimization, I create efficient and reliable backend solutions.',
 	keywords: [
@@ -19,7 +19,7 @@ const metadata: Metadata = {
 		'Cloud Computing',
 		'Microservices',
 		'DevOps',
-		'[Your Name]',
+		'Faiz Ghanchi',
 		'Node.js',
 		'Python',
 		'Java',
@@ -27,19 +27,19 @@ const metadata: Metadata = {
 		'System Design',
 		'Backend Architecture',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: 'Faiz Ghanchi' }],
+	creator: 'Faiz Ghanchi',
 	openGraph: {
-		title: '[Your Name] - Backend Developer Portfolio',
+		title: 'Faiz Ghanchi - Backend Developer Portfolio',
 		description: 'Passionate backend developer crafting scalable and efficient server architectures. Explore my projects and technical expertise.',
-		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+		url: 'https://faizghanchi.com',
+		siteName: 'Faiz Ghanchi - Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
 				width: 1200,
 				height: 630,
-				alt: '[Your Name] - Backend Developer Portfolio',
+				alt: 'Faiz Ghanchi - Backend Developer Portfolio',
 			},
 		],
 		locale: 'en_US',
@@ -47,9 +47,9 @@ const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		title: '[Your Name] - Backend Developer',
+		title: 'Faiz Ghanchi - Backend Developer',
 		description: 'Passionate backend developer crafting scalable and efficient server architectures. Explore my projects and technical expertise.',
-		creator: '@yourusername',
+		creator: '@faizgh04',
 		images: ['/og-image.jpg'],
 	},
 	robots: {
